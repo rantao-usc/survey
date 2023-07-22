@@ -7,10 +7,10 @@
 ## 2. get random 10 questions and show on frontend
 <img width="1869" alt="2  get random 10 questions and show on frontend" src="https://user-images.githubusercontent.com/78400414/162368393-e0209151-ef0d-409c-be4c-25d72563b836.png">
 
-## 3. after you finish a question, the title will go green, and if didn't choose some questions but still press the complete button, titles becomes red, and you cannot submit
+## 3. After completing a question in the system, the title of the question will turn green. However, if you press the complete button without answering some questions, the titles of those unanswered questions will turn red. In this case, you will not be able to submit the questionnaire until all questions are answered.
 <img width="1871" alt="3  after you finish a question, the title will go green, and if didn't choose some questions but still press the complete button, titles becomes red, and you cannot submit" src="https://user-images.githubusercontent.com/78400414/162368472-0b7fd59f-7560-4a9f-b2b3-2d5311efd3e5.png">
 
-## 4. after click the button, shows another page, store the results, as well as the time spent, into mongodb, and download all the results in mongodb in a csv file
+## 4. Once you click the button, a new page will appear. The results of the quiz, along with the time taken to complete it, will be stored in MongoDB. The results in MongoDB can be downloaded as a CSV file.
 <img width="1866" alt="4  after click the button, shows another page, store the results, as well as the time spent, into mongodb, and download all the results in mongodb in a csv file" src="https://user-images.githubusercontent.com/78400414/162368504-9f800f8a-f9e6-4fa6-853f-704e8a6fd75e.png">
 
 ## 5. results stored in mongodb
